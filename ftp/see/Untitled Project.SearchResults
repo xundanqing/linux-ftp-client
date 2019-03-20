@@ -1,0 +1,5 @@
+---- errno Matches (4 in 2 files) ----
+CFTPManager.cpp:#include <errno.h>
+Ftp.cc:#include <errno.h>
+Ftp.cc:        printf("%s\n",strerror(errno));
+Ftp.cc:     errno
